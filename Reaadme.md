@@ -1,3 +1,3 @@
 # Demo 
 
-describe project.
+describe project!
